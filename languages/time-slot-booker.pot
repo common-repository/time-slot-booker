@@ -1,0 +1,508 @@
+
+msgid "%d Day"
+msgid_plural "%d Days"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%d Hour"
+msgid_plural "%d Hours"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%d Minute"
+msgid_plural "%d Minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%d Week"
+msgid_plural "%d Weeks"
+msgstr[0] ""
+msgstr[1] ""
+
+#  short duration format in days, for example 4 d
+msgid "%d d"
+msgstr ""
+
+#  short duration format in hours, for example 2 hr
+msgid "%d hr"
+msgstr ""
+
+#  short duration format in minutes, for example 25 min
+msgid "%d min"
+msgstr ""
+
+#  short duration format in weeks, for example 4 w
+msgid "%d w"
+msgstr ""
+
+#  short duration format in days, for example 4 d
+msgid "%s d"
+msgstr ""
+
+#  short duration format in hours, for example 2 hr
+msgid "%s hr"
+msgstr ""
+
+#  short duration format in minutes, for example 25 min
+msgid "%s min"
+msgstr ""
+
+msgid "1st"
+msgstr ""
+
+msgid "2nd"
+msgstr ""
+
+msgid "3rd"
+msgstr ""
+
+msgid "4th"
+msgstr ""
+
+msgid "5th"
+msgstr ""
+
+msgid "Active"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+msgid "Add New"
+msgstr ""
+
+msgid "Add New Calendar"
+msgstr ""
+
+msgid "Admin"
+msgstr ""
+
+msgid "Administrator"
+msgstr ""
+
+#  duration, during all day
+msgid "All Day"
+msgstr ""
+
+#  short April
+msgid "Apr"
+msgstr ""
+
+msgid "At least %s characters required"
+msgstr ""
+
+msgid "At least %s is required"
+msgstr ""
+
+#  short August
+msgid "Aug"
+msgstr ""
+
+msgid "Availability Updated"
+msgstr ""
+
+msgid "Book Now"
+msgstr ""
+
+msgid "Booking Cancelled"
+msgstr ""
+
+msgid "Booking Confirmed"
+msgstr ""
+
+msgid "Booking Form"
+msgstr ""
+
+msgid "Booking Pending"
+msgstr ""
+
+msgid "Booking Settings"
+msgstr ""
+
+msgid "Bookings"
+msgstr ""
+
+msgid "Calendar Added"
+msgstr ""
+
+msgid "Calendar Deleted"
+msgstr ""
+
+msgid "Calendar Updated"
+msgstr ""
+
+msgid "Calendars"
+msgstr ""
+
+msgid "Cancelled"
+msgstr ""
+
+msgid "Click To Proceed"
+msgstr ""
+
+msgid "Configuration"
+msgstr ""
+
+msgid "Confirm Booking"
+msgstr ""
+
+msgid "Confirmed"
+msgstr ""
+
+msgid "Continue"
+msgstr ""
+
+msgid "Create New Order"
+msgstr ""
+
+msgid "Custom Availability"
+msgstr ""
+
+msgid "Custom Field"
+msgstr ""
+
+msgid "Custom availability already defined for this date"
+msgstr ""
+
+msgid "Customer"
+msgstr ""
+
+msgid "Database Error"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "Date Format"
+msgstr ""
+
+msgid "Date and Time"
+msgstr ""
+
+msgid "Day Off"
+msgstr ""
+
+msgid "Days"
+msgstr ""
+
+#  short December
+msgid "Dec"
+msgstr ""
+
+msgid "Default Calendar"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Edit Calendar"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Email Notifications"
+msgstr ""
+
+#  short February
+msgid "Feb"
+msgstr ""
+
+msgid "For example, if this option is set to 1 day, then a customer can book slots from tomorrow and not earlier."
+msgstr ""
+
+msgid "For example, if this option is set to 2 months, then a customer will not be able to book slots beyond 2 months from now."
+msgstr ""
+
+#  short Friday
+msgid "Fri"
+msgstr ""
+
+msgid "Friday"
+msgstr ""
+
+msgid "From"
+msgstr ""
+
+msgid "From End"
+msgstr ""
+
+msgid "Hours"
+msgstr ""
+
+msgid "How many different time slots one customer can book in one order."
+msgstr ""
+
+msgid "Initial Status"
+msgstr ""
+
+msgid "Installation"
+msgstr ""
+
+msgid "Interval"
+msgstr ""
+
+msgid "It can not exceed %s characters in length"
+msgstr ""
+
+#  short January
+msgid "Jan"
+msgstr ""
+
+#  short July
+msgid "Jul"
+msgstr ""
+
+#  short June
+msgid "Jun"
+msgstr ""
+
+msgid "Label"
+msgstr ""
+
+msgid "Manager"
+msgstr ""
+
+#  short March
+msgid "Mar"
+msgstr ""
+
+msgid "Max From Now"
+msgstr ""
+
+msgid "Max Slots In One Order"
+msgstr ""
+
+#  short May
+msgid "May"
+msgstr ""
+
+msgid "Menu"
+msgstr ""
+
+msgid "Message"
+msgstr ""
+
+msgid "Min From Now"
+msgstr ""
+
+#  short Monday
+msgid "Mon"
+msgstr ""
+
+msgid "Monday"
+msgstr ""
+
+msgid "Months"
+msgstr ""
+
+msgid "More Slots"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "New Booking Order Created"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "No Matches"
+msgstr ""
+
+msgid "No Role"
+msgstr ""
+
+msgid "No availability configured for this calendar!"
+msgstr ""
+
+msgid "Not Available"
+msgstr ""
+
+msgid "Not available"
+msgstr ""
+
+#  short November
+msgid "Nov"
+msgstr ""
+
+#  short October
+msgid "Oct"
+msgstr ""
+
+msgid "Order"
+msgstr ""
+
+msgid "Order Deleted"
+msgstr ""
+
+msgid "Order Updated"
+msgstr ""
+
+msgid "Orders"
+msgstr ""
+
+msgid "Pending"
+msgstr ""
+
+msgid "Phone"
+msgstr ""
+
+msgid "Please correct the form errors and try again"
+msgstr ""
+
+msgid "Please define which WordPress user roles will be able to access the plugin."
+msgstr ""
+
+msgid "Plugin Role"
+msgstr ""
+
+msgid "Ref Code"
+msgstr ""
+
+msgid "Regular Availability"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Required"
+msgstr ""
+
+msgid "Required Field"
+msgstr ""
+
+msgid "Reset"
+msgstr ""
+
+msgid "Restore"
+msgstr ""
+
+msgid "Roles"
+msgstr ""
+
+#  short Saturday
+msgid "Sat"
+msgstr ""
+
+msgid "Saturday"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Schedule"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Select Calendar"
+msgstr ""
+
+#  short September
+msgid "Sep"
+msgstr ""
+
+msgid "Set how WordPress users can work with this plugin."
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Settings Updated"
+msgstr ""
+
+msgid "Slots"
+msgstr ""
+
+msgid "Start Over"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Subject"
+msgstr ""
+
+#  short Sunday
+msgid "Sun"
+msgstr ""
+
+msgid "Sunday"
+msgstr ""
+
+msgid "System Settings"
+msgstr ""
+
+msgid "Tags"
+msgstr ""
+
+msgid "Thank You"
+msgstr ""
+
+msgid "This field does not match the %s field"
+msgstr ""
+
+msgid "This field must contain only positive numbers."
+msgstr ""
+
+msgid "This value is already used"
+msgstr ""
+
+#  short Thursday
+msgid "Thu"
+msgstr ""
+
+msgid "Thursday"
+msgstr ""
+
+msgid "Time Format"
+msgstr ""
+
+msgid "Timeslots"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "To"
+msgstr ""
+
+msgid "Total Slots"
+msgstr ""
+
+#  short Tuesday
+msgid "Tue"
+msgstr ""
+
+msgid "Tuesday"
+msgstr ""
+
+msgid "Use This Field"
+msgstr ""
+
+msgid "Users"
+msgstr ""
+
+msgid "Valid email address required"
+msgstr ""
+
+#  short Wednesday
+msgid "Wed"
+msgstr ""
+
+msgid "Wednesday"
+msgstr ""
+
+msgid "Week Starts On"
+msgstr ""
+
+msgid "Weeks"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+
